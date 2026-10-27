@@ -1,0 +1,6 @@
+{
+  "name": "Prism Browser",
+  "description": "Fast, modern mobile web browser with true desktop-grade multi-profile session isolation, tab management, bookmarks, history, and private browsing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
